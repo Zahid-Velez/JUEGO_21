@@ -1,0 +1,3 @@
+nro_jugador: 4
+tipos_palos: Oros, Copas, Espadas, Bastos
+valor_para_ganar: 22
